@@ -1,0 +1,4 @@
+litestar
+pydantic
+pydantic-settings
+python-dotenv

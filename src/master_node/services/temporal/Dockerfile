@@ -1,0 +1,2 @@
+FROM temporalio/server:latest
+
