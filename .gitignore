@@ -1,0 +1,4 @@
+.env
+src/master_node/.env
+src/worker_node/.env
+src/ollama_node/.env
